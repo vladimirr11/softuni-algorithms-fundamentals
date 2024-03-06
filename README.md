@@ -1,2 +1,2 @@
-# softuni-algorithms-fundamentals
-Part of this repo are some of the most common algorithmic techniques used in practice like - recursion and backtracking, combinatorial algorithms, searching, sorting and gready algorithms. Graph traversal algorithms (DFS, BFS) and algorithms used for finding of shortest path in graph are also included. Dynamic programming (DP) and solving of optimization problems using DP techniques are considered as well.
+# Softuni Algorithms Fundamentals course repo
+This repo contains some well known algorithms like - recursion and backtracking, combinatorial algorithms, searching, sorting, graph traversal, DP and greedy algorithms. 
